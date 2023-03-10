@@ -1,0 +1,60 @@
+.bg-darkblue{
+
+    background-color: #1e202b;
+}
+
+.fsmall{
+    font-size: 10px;
+}
+
+.nav-item button{
+    color: white;
+    border: 2px solid transparent;
+    background-color: transparent;
+    margin: 10px;
+    padding: 5px 20px ;
+    font-size: 13px;
+    transition: all 0.5s;
+}
+
+
+
+.nav-item button:hover{
+
+    border-color: #009ad8;
+    color: #009ad8 ;
+
+}
+.bimg{
+    background-image: url(img/banner.png);
+}
+
+.bg-darkgray{
+    background-color: #1f212c;
+}
+.bg-gray{
+    background-color: #262936;
+}
+.temp{
+    font-size: 6.42857rem;
+    font-weight: bolder;
+}
+.sectionhead{
+    background-color: rgba(0, 0, 0, 0.162);
+}
+
+.icons{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #1e202b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.icons:hover{
+    color: white;
+    background-color: #009ad8;
+}
